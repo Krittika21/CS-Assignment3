@@ -1,0 +1,7 @@
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\bin\Debug\Product-Inventory.exe.config
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\bin\Debug\Product-Inventory.exe
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\bin\Debug\Product-Inventory.pdb
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\obj\Debug\Product-Inventory.csprojAssemblyReference.cache
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\obj\Debug\Product-Inventory.csproj.CoreCompileInputs.cache
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\obj\Debug\Product-Inventory.exe
+C:\Users\krittika\source\repos\Product-Inventory\Product-Inventory\obj\Debug\Product-Inventory.pdb
